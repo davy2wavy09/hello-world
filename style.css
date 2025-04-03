@@ -9,5 +9,5 @@
         transform: rotate(180deg); 
       }
       body{
-        background-image: url(website_background.png);
+        background-image: url("website_background.png");
       }
